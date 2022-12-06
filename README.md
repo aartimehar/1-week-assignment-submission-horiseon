@@ -12,13 +12,13 @@
 
 -Application is deployed at the live url -  the live url below:
 
--Github URL 
+#  Github URL 
 
 HTML Source Code -  https://github.com/aartimehar/1-week-assignment-submission-horiseon/blob/main/index.html
 
 CSS  Source Code -  https://github.com/aartimehar/1-week-assignment-submission-horiseon/blob/main/assets/css/style.css
 
--Screenshots of the following website: 
+# Screenshots of the following website: 
 
 ![Assignment Submission1](https://user-images.githubusercontent.com/113493756/205995365-844073e2-8c0d-4b4c-b0f1-d24aec353982.png)
 ![Assignment submission 2png](https://user-images.githubusercontent.com/113493756/205995975-3db0ae26-d55a-4098-b77f-527696978250.png)

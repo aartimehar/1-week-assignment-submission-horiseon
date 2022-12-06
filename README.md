@@ -10,9 +10,7 @@
 
 -Application is deployed at the live url -  the live url below:
 
--Github URL for the following sourcecode's submitted in the relavent issues sections. 
-
--Github Repositary contains following code : 
+-Github URL 
 
 -Screenshots of the following website: 
 

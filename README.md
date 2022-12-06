@@ -18,11 +18,10 @@ HTML Source Code -  https://github.com/aartimehar/1-week-assignment-submission-h
 
 CSS  Source Code -  https://github.com/aartimehar/1-week-assignment-submission-horiseon/blob/main/assets/css/style.css
 
-# Screenshots of the following website: 
+# Screenshot of the following website: 
+![screencapture-file-C-Users-aarti-bootcamp2-week1-challenges-day-4challenge-starter-index-html-2022-12-06-21_50_26](https://user-images.githubusercontent.com/113493756/206030564-841328b3-c5b7-4949-a029-6c32ce2b658b.png)
 
-![Assignment Submission1](https://user-images.githubusercontent.com/113493756/205995365-844073e2-8c0d-4b4c-b0f1-d24aec353982.png)
-![Assignment submission 2png](https://user-images.githubusercontent.com/113493756/205995975-3db0ae26-d55a-4098-b77f-527696978250.png)
-![Assignment Submission 3](https://user-images.githubusercontent.com/113493756/205996626-ed19707e-40ac-4233-aa75-50a0ebe2b3f3.png)
+
  
   ## Credits 
  

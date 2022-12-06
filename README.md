@@ -16,6 +16,6 @@
 
 -Screenshots of the following website: 
 
-![Assignment Submission1](https://user-images.githubusercontent.com/113493756/205991948-20875290-c26e-4bf8-83ce-8885c2c998ab.png)
-![Assignment Submission 2](https://user-images.githubusercontent.com/113493756/205991989-a65dfa43-5df3-4c35-8b7d-08d0073a665d.png)
-![Assignment Submission 3png](https://user-images.githubusercontent.com/113493756/205992000-1823a28f-0451-4ee1-b9a6-691c38b6bbbc.png)
+![Assignment Submission1](https://user-images.githubusercontent.com/113493756/205995365-844073e2-8c0d-4b4c-b0f1-d24aec353982.png)
+![Assignment Submission 2](https://user-images.githubusercontent.com/113493756/205995378-6e092ae0-2dfd-45fe-b2a1-6392d31e7cbd.png)
+![Assignment Submission 3](https://user-images.githubusercontent.com/113493756/205995389-f7dbab46-e3ec-4cc4-a6c5-8f079a6fbb14.png)

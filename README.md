@@ -10,7 +10,9 @@
 - Fixed the contrast settings according to WCAG standards in the side section.
 - Fixed the styling for the side section to align it in a order. 
 
--Application is deployed at the live url -  the live url below:
+#  Live URL
+
+https://aartimehar.github.io/module-1-challenge-review-for-horiseon/
 
 #  Github URL 
 

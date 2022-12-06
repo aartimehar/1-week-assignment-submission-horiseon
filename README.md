@@ -24,7 +24,8 @@ CSS  Source Code -  https://github.com/aartimehar/1-week-assignment-submission-h
 ![Assignment submission 2png](https://user-images.githubusercontent.com/113493756/205995975-3db0ae26-d55a-4098-b77f-527696978250.png)
 ![Assignment Submission 3](https://user-images.githubusercontent.com/113493756/205996626-ed19707e-40ac-4233-aa75-50a0ebe2b3f3.png)
  
- ##Credits 
+  ## Credits 
+ 
  A big thank you to the whole team of Bootcamp and my Instructor Neteyana Blake for guiding us to the path of front end development. I'm thankful to Edx & University of Birmingham & to all education groups who have contributed to make this bootcamp successful and dream comee true for learners just like me. 
  
  
